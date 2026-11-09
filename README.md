@@ -1,8 +1,10 @@
-📱 Gadgets Sales Analysis
+📱# Gadgets Sales Analysis
 An end-to-end data analytics project examining retail gadget sales performance, revenue drivers, and customer purchasing trends using Power BI.
 
-📊 Project Overview
+
+📊 #Project Overview
 This project provides data-driven insights into retail electronics sales, helping stakeholders identify top-performing products, track regional demand, and optimize overall sales strategy.
+
 
 Dashboard File: Analysis Power BI.pbix
 
@@ -10,7 +12,7 @@ Primary Tool: Microsoft Power BI Desktop
 
 Domain: Retail & E-Commerce Sales Analytics
 
-🚀 Key Performance Indicators (KPIs) & Insights
+🚀# Key Performance Indicators (KPIs) & Insights
 The interactive dashboard tracks several core metrics:
 
 Revenue & Sales Volume: Total units sold, gross revenue, and profit metrics across different gadget categories.
@@ -21,11 +23,11 @@ Temporal Trends: Monthly and quarterly sales fluctuations highlighting seasonal 
 
 Regional Performance: Regional breakdown highlighting high-performing markets and customer demand.
 
-📸 Dashboard Preview
+📸# Dashboard Preview
 Here is a preview of the Power BI report:
 
 
-🛠️ Requirements & Tools
+🛠️ ##Requirements & Tools
 To view and interact with the full reporting model:
 
 Download the Analysis Power BI.pbix file from this repository.
