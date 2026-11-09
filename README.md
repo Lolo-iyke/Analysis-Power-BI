@@ -1,34 +1,38 @@
-Gadgets Sales Analysis Dashboard 📊
-An interactive Power BI report designed to track, analyze, and visualize retail gadget sales, revenue drivers, and regional performance trends.
+📱 Gadgets Sales Analysis
+An end-to-end data analytics project examining retail gadget sales performance, revenue drivers, and customer purchasing trends using Power BI.
 
-🔍 Project Overview
-This project leverages Power BI to transform raw sales data into actionable business intelligence. By examining transaction logs, product categories, and customer regions, this dashboard provides clear visibility into what drives profitability and where sales opportunities lie.
+📊 Project Overview
+This project provides data-driven insights into retail electronics sales, helping stakeholders identify top-performing products, track regional demand, and optimize overall sales strategy.
 
-🛠️ Tech Stack & Tools
-Data Modeling & Transformation: Power Query, DAX
+Dashboard File: Analysis Power BI.pbix
 
-Data Visualization: Power BI Desktop
+Primary Tool: Microsoft Power BI Desktop
 
-Version Control: Git & GitHub
+Domain: Retail & E-Commerce Sales Analytics
 
-📂 Repository Structure
-├── DataModel/             # Underlying semantic data model and schema definition
-├── Report/                # Report pages, visual configurations, and themes
-├── dashboards/            # Exported Power BI template or PDF report
-└── README.md              # Project documentation
-📈 Key Metrics & Insights
-Revenue & Volume: Tracks total units sold, gross revenue, and profit margins across different gadget categories.
+🚀 Key Performance Indicators (KPIs) & Insights
+The interactive dashboard tracks several core metrics:
 
-Product Performance: Identifies top-performing hardware and accessories driving the bulk of sales.
+Revenue & Sales Volume: Total units sold, gross revenue, and profit metrics across different gadget categories.
 
-Temporal Trends: Analyzes monthly and quarterly sales fluctuations to spot seasonal buying patterns.
+Product Performance: Identification of top-selling hardware and accessories driving the bulk of sales.
 
-🚀 How to View This Project
-Clone or download the repository to your local machine.
+Temporal Trends: Monthly and quarterly sales fluctuations highlighting seasonal buying patterns and promotional spikes.
 
-Open the .pbix file using Microsoft Power BI Desktop.
+Regional Performance: Regional breakdown highlighting high-performing markets and customer demand.
 
-Explore the interactive visuals, filters, and data model structure.
+📸 Dashboard Preview
+Here is a preview of the Power BI report:
+
+
+🛠️ Requirements & Tools
+To view and interact with the full reporting model:
+
+Download the Analysis Power BI.pbix file from this repository.
+
+Open the file using Microsoft Power BI Desktop.
 
 👤 Author
-Onyinye Eberendu (Lolo-iyke)
+Onyinye Eberendu
+
+GitHub Profile
