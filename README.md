@@ -1,31 +1,34 @@
-# Gadgets Sales Analysis 📊
+Gadgets Sales Analysis Dashboard 📊
+An interactive Power BI report designed to track, analyze, and visualize retail gadget sales, revenue drivers, and regional performance trends.
 
-An end-to-end data analysis project examining gadget sales performance, customer purchasing trends, and revenue metrics to drive data-backed business decisions.
+🔍 Project Overview
+This project leverages Power BI to transform raw sales data into actionable business intelligence. By examining transaction logs, product categories, and customer regions, this dashboard provides clear visibility into what drives profitability and where sales opportunities lie.
 
----
+🛠️ Tech Stack & Tools
+Data Modeling & Transformation: Power Query, DAX
 
-## 🚀 Project Overview
-In today's competitive electronics market, understanding sales performance and regional demand is critical for inventory management and revenue growth. This project analyzes a comprehensive dataset of gadget sales to uncover key insights regarding top-performing products, seasonal purchasing spikes, and customer demographics.
+Data Visualization: Power BI Desktop
 
-## 📂 Repository Structure
----
+Version Control: Git & GitHub
 
-## 🛠️ Tools
-* **Data Processing & Analysis:** Excel and Power BI
-* **Data Visualization:** Power BI 
-* **Version Control:** Git & GitHub
+📂 Repository Structure
+├── DataModel/             # Underlying semantic data model and schema definition
+├── Report/                # Report pages, visual configurations, and themes
+├── dashboards/            # Exported Power BI template or PDF report
+└── README.md              # Project documentation
+📈 Key Metrics & Insights
+Revenue & Volume: Tracks total units sold, gross revenue, and profit margins across different gadget categories.
 
----
+Product Performance: Identifies top-performing hardware and accessories driving the bulk of sales.
 
-## 📈 Key Insights & Findings
-1. **Top-Selling Categories:** Premium smartphones and wireless audio accessories generated over 45% of total annual revenue.
-2. **Seasonal Trends:** Significant sales peaks observed during Q4 (holiday shopping season), driven by promotional discounts.
-3. **Regional Performance:** Region X demonstrated the highest average order value (AOV), while Region Y led in total volume of units sold.
+Temporal Trends: Analyzes monthly and quarterly sales fluctuations to spot seasonal buying patterns.
 
----
+🚀 How to View This Project
+Clone or download the repository to your local machine.
 
-## 📊 Dashboard Preview
-*(If applicable, include a screenshot or link to your dashboard here)*
-```bash
-# Example: 
-![Sales Dashboard Preview](dashboards/preview.png)
+Open the .pbix file using Microsoft Power BI Desktop.
+
+Explore the interactive visuals, filters, and data model structure.
+
+👤 Author
+Onyinye Eberendu (Lolo-iyke)
